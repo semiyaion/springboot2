@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot2-druid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_03_ssmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_2_mybatis" vcs="Git" />
+  </component>
+</project>
